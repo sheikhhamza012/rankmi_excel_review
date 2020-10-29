@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'evaluations_gem', git: 'https://github.com/sheikhhamza012/rankmi_excel_review.git'
+gem 'rankmi_excel_review', git: 'https://github.com/sheikhhamza012/rankmi_excel_review.git'
 
 ```
 
@@ -19,7 +19,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ git clone https://github.com/sheikhhamza012/rankmi_excel_review/
+    $ git clone https://github.com/sheikhhamza012/rankmi_excel_review.git/
     $ cd rankmi_excel_review
     $ rake install
 
