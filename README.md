@@ -9,7 +9,8 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rankmi_excel_review'
+gem 'evaluations_gem', git: 'https://github.com/sheikhhamza012/rankmi_excel_review.git'
+
 ```
 
 And then execute:
@@ -18,7 +19,9 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rankmi_excel_review
+    $ git clone https://github.com/sheikhhamza012/rankmi_excel_review/
+    $ cd rankmi_excel_review
+    $ rake install
 
 ## Usage
 
